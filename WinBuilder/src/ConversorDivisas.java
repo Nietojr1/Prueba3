@@ -105,7 +105,7 @@ public class ConversorDivisas extends JFrame {
 		btnDolarPesos.setBounds(239, 11, 142, 23);
 		pnlContenedor.add(btnDolarPesos);
 		
-		JButton btnEuroPesos = new JButton("Euros a Pesos");
+		JButton btnEuroPesos = new JButton("Euros a PesosSSSSSSSS");
 		btnEuroPesos.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				try {
